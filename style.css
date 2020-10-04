@@ -1,0 +1,25 @@
+.activeArticle {
+    color: green;
+    background-color: #f0f0f0;
+    font-weight: 800;
+    width: 400px;
+    cursor: pointer;
+}
+
+.crossedOverArticle {
+    color: gray;
+    background-color: #e0e0e0;
+    font-weight: 200;
+    text-decoration: line-through;
+    width: 400px;
+    cursor: pointer;
+
+}
+
+.deleteArticle {
+    color: red;
+    font-weight: 800;
+    float: left;
+    margin-right: 20px;
+    cursor: pointer;
+}
